@@ -32,4 +32,4 @@ My Github Stats
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,docker,kafka,linux,postman,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,linux,postman,aws,vscode)](https://skillicons.dev)
