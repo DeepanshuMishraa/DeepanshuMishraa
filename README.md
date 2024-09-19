@@ -20,7 +20,7 @@ My Github Stats
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,bash,python,c,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,bash,python,c,java,rust)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
@@ -28,7 +28,7 @@ My Github Stats
 
 <h2>Databases</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo,mysql,kafka)](https://skillicons.dev)
 
 <h2>Tools</h2>
  
