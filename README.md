@@ -1,35 +1,52 @@
-<h1>Hi 👋</h1>
-<h2>I'm Deepanshu Mishra</h2>
+# dipxsy
 
-<h4 >
-  I like to build things that matter and affect the way the web operates
-</h4>
+> Replacing structure with chaos, one commit at a time.  
+> Currently investigating the boundary between logic and delusion. It's blurry.
 
-<h2>GitHub Stats</h2>
-<details>
-<summary> 
-My Github Stats
-</summary>
+---
 
-![Deepanshu's Github Stats](https://github-readme-stats.vercel.app/api?username=deepanshumishraa&show_icons=true&hide_title=true&count_private=true&theme=dark)
+### 🧠 Experience
 
+**Director of Existential Semantics**  
+Defined undefined behavior until it felt something. Spearheaded multiple initiatives to render purpose optional.
 
-</details>
+**Senior Vice Coordinator of Recursive Indecision**  
+Established a system where decisions are made only after being unmade. Scaled confusion with confidence.
 
+**Head of Nothing in Particular**  
+Successfully managed the absence of responsibility while optimizing meetings that could've been dreams.
 
+---
 
-<h2>Languages</h2>
+### 📖 Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,bash,python,cpp,java,golang)](https://skillicons.dev)
+- Industrial confusion & tactical inconvenience
+- Analytical analysis (very meta, very circular)
+- Cubic regression as an emotional journey
+- Verose abstraction (just the vague kind)
+- Rats — behavior, philosophy, and urban navigation
+- Force push and accept fate
 
-<h2>Frameworks</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=express,flask,react,nextjs,tailwindcss)](https://skillicons.dev)
+---
 
-<h2>Databases</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo,mysql,kafka)](https://skillicons.dev)
+### 🌀 Beliefs
 
-<h2>Tools</h2>
- 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,linux,postman,aws,vscode,neovim,arch)](https://skillicons.dev)
+> Aura > Stack  
+> Certainty is a compiler warning  
+> Comments are time capsules of regret  
+> If it works, it's a feature. If it fails, it's art.
+
+---
+
+### 🧘 Motto
+
+> *"I don’t write code, I let it happen through me."*
+
+---
+
+### 🕳️ Elsewhere
+
+Sometimes I exist.  
+Sometimes I `git reset --hard`.
+
+Either way, I’m probably doing both wrong on purpose.
