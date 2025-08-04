@@ -29,20 +29,6 @@ Successfully managed the absence of responsibility while optimizing meetings tha
 
 ---
 
-### 🌀 Beliefs
-
-> Aura > Stack  
-> Certainty is a compiler warning  
-> Comments are time capsules of regret  
-> If it works, it's a feature. If it fails, it's art.
-
----
-
-### 🧘 Motto
-
-> *"I don’t write code, I let it happen through me."*
-
----
 
 ### 🕳️ Elsewhere
 
